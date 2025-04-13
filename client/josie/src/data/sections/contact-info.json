@@ -1,0 +1,22 @@
+{
+    "title": "Contact",
+    "subtitle": "I believe that <span class='mil-accent'>collaboration and creativity</span> are the cornerstones of progress, and I am dedicated to bringing a fresh perspective.",
+    "items": [
+        {
+            "label": "Email",
+            "value": "josiew@mydomain.com"
+        },
+        {
+            "label": "Address",
+            "value": "New York 11210, USA"
+        },
+        {
+            "label": "Phone",
+            "value": "(300) 300 40 30"
+        }
+    ],
+    "image": {
+        "url": "/img/3.jpg",
+        "alt": "banner"
+    }
+}

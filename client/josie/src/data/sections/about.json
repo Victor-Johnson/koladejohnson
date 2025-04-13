@@ -1,0 +1,36 @@
+{
+    "title": "About",
+    "subtitle": "Hello there! I'm <span class='mil-accent'>Josie West</span>, a native New Yorker driven by innovation and a passion for creative expression.",
+    "image": {
+        "url": "/img/2.png",
+        "alt": "banner"
+    },
+    "signature": "Josie",
+    "list": [
+        {
+            "label": "Email",
+            "value": "josiew@mydomain.com",
+            "type": "text"
+        },
+        {
+            "label": "Role",
+            "value": "Web Designer and Develop",
+            "type": "text"
+        },
+        {
+            "label": "Phone",
+            "value": "(300) 300 40 30",
+            "type": "text"
+        },
+        {
+            "label": "CV",
+            "value": "Download CV",
+            "type": "link",
+            "link": "https://drive.google.com"
+        }
+    ],
+    "description1": "Hello there! I'm Josie West, a native New Yorker driven by innovation and a passion for creative expression. My journey into the digital realm began in the heart of the bustling streets of New York City. Growing up surrounded by the dynamic energy of the city, I developed a keen interest in harnessing technology to improve our digital lives.",
+    "description2": "What sets me apart is not just my technical expertise but also my commitment to sharing great ideas that elevate the digital presence of my clients. I believe that collaboration and creativity are the cornerstones of progress, and I am dedicated to bringing a fresh perspective to every project I undertake.",
+    "description3": "My academic pursuit led me to New York University (NYU), where I delved into the world of arts and letters. It was here that my creative instincts flourished, and I discovered the power of merging artistic concepts with the limitless possibilities of the digital landscape.",
+    "description4": "Fuelled by my love for both art and technology, I embarked on a career path that seamlessly blends these two worlds. Currently, I offer Web Design and Development and Digital Marketing services to ambitious companies brimming with incredible potential for success. Whether it's crafting visually captivating websites or devising innovative digital marketing strategies, I thrive on transforming ideas into impactful digital experiences."
+}

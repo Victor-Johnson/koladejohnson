@@ -1,0 +1,27 @@
+{
+    "title": "Skills",
+    "subtitle": "Fuelled by my love for both <span class='mil-accent'>art and technology</span>, I embarked on a career path that seamlessly blends these two worlds.",
+    "items": [
+        {
+            "label": "UI/UX",
+            "value": "75"
+        },
+        {
+            "label": "WordPress",
+            "value": "85"
+        },
+        {
+            "label": "Figma",
+            "value": "70"
+        },
+        {
+            "label": "Generative AI",
+            "value": "65"
+        },
+        {
+            "label": "Google Analytics",
+            "value": "80"
+        }
+    ],
+    "info": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+}

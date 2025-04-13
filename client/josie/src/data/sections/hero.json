@@ -1,0 +1,13 @@
+{
+    "subtitle": "Web designer <span class='mil-accent'>and</span> Developer",
+    "title": "<span class='mil-text-bg'>Hello I<span class='mil-accent'>’</span>m</span> <span class='mil-text-bg'><span class='mil-accent'><br/>Josie</span> West</span>",
+    "description": "I believe that collaboration and creativity are the cornerstones of progress, and I am dedicated to bringing a fresh perspective to every project I undertake.",
+    "button": {
+        "link": "/projects",
+        "label": "Explore my work"
+    },
+    "photo": {
+        "url": "/img/1.jpg",
+        "alt": "Josie West"
+    }
+}
