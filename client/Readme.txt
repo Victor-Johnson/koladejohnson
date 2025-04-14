@@ -1,102 +1,112 @@
 /**
-*	Josie - Personal Portfolio & Resume React NextJS Template
+*	Luique - Personal Portfolio HUGO Theme
 *	Version: 1.0
 *	Author: bslthemes
 *	Author URL: http://themeforest.net/user/bslthemes
-*	Copyright © Josie by bslthemes. All Rights Reserved.
+*	Copyright © Luique by bslthemes. All Rights Reserved.
 **/
 
 
 --------------------------------------
 
-Thank you for your recent purchase of "Josie Personal Portfolio & Resume React NextJS Template".
+Thank you for your recent purchase of "Luique - Personal Portfolio HUGO Theme".
 
 --------------------------------------
 
 
 Overview:
 
-Josie – Personal Portfolio & CV Resume React NextJS Template its suitable for Designer, Developer, Programmer, Freelancer, Artist, Photographer & Can be use for Personal website. Modern and creative template that will help you create a web presence. Josie is comes with: Dark & Light versions, Parallax, One & Multi pages, Beautiful animations and effects, Awesome Portfolio. Creating online resume and Personal website should no longer be a difficult. Perfectly for placing information about your experience, skills, education, works and expertise. Ideal for any type of profession as for creative cv and personal portfolio.
- 
+Luique – Personal Portfolio Hugo Theme its suitable for Designer, Developer, Programmer, Freelancer, Artist, Photographer & Can be use for Personal Portfolio. Modern and creative theme that will help you create a web presence. Luique is comes with: Dark & Light versions, Live Switcher Mode (Dark & Light UI), Parallax, One & Multi pages, Beautiful animations and effects, Awesome Portfolio with Filters. Creating cv resume and Personal website should no longer be a difficult. Perfectly for placing information about your experience, skills, education, works and expertise. Ideal for any type of profession as for creative cv and personal website.
+
+
 --------------------------------------
 
-Template Features:
-Built with latest versions of React and Next.js
-App Router / Next.js 14
-JAMstack deployment ready ( Vercel, Netlify )
-No jQuery Dependency
-Based on Bootstrap v5.x
-SCSS Available
-Modern & Unique Design
-12+ Pre-Built Pages
-Multi Page & One Page Variants
-Light & Dark UI Variants
-Easy to Customize: Colors, Fonts, Content etc.
-Advanced Options with SCSS (.scss files included)
-Easy to Customize Content: all data in separate JSON, Markdown files
-Projects & Posts  based on markdown files (.md)
-Projects Grid and Project Single Pages
-Animated Carousels with News, Projects
-Completed Blog System:
-- Blog Categories
-- Blog Pagination
-- Single Publication
-Portfolio with Animated Filters by Category
-Education and Jobs timeline
-Contact Page with working Contact Form (without PHP)
-Services Grid
-Animated Skills Bars
-Resume Timeline
-404 Page
-Modern Animations and Parallax
-Page Transitions Effects
-Smooth Page Scrolling Effect
-CSS3 Animations
-Responsive and Retina Ready
-W3C Valid Code
-Clean and Commented code
-Cross Browser
-Advanced Typography
-Free FontAwesome Fonts Icons used
-Free Google Fonts used
-Fast Loading Speed
-Regular Updates
-24/7 Support
-Documentation included
-and more features coming soon!
+
+Features:
+- Powered by Hugo
+- Netlify ready
+- Easy Customization
+- Demo Data included
+- Powerful Portfolio with Filters
+- Powerful Blog
+- Ajax Search for Blog
+- Tags & Categories for Blog
+- 404 Page
+- Disqus Comments
+- Google Analytics Tracking
+- HTML5, CSS3 & jQuery powered
+- Dark & Light Versions & Switcher Mode
+- Beautiful animations and effects
+- Portfolio single page
+- Easy to Customize: Colors, Fonts, Content etc..
+- Skills
+- Resume On Timeline
+- Pricing Table
+- Testimonials Carousel
+- Page Transitions Effects
+- Fully Responsive
+- Valid, Clean and Commented code
+- Cross browser
+- Minimal and Clean
+- Fully Working Contact Form
+- FontAwesome Fonts Icons
+- 1,300+ Icons
+- 400+ Social Icons
+- Google Fonts
+- jQuery Validation Plugin
+- CSS3 Animations
+- Regular Updates
+- 24/7 Support
+- Documentation included
+- and more features coming soon!
+
 
 --------------------------------------
 
 
 Icons used:
 
-- Font awesome
-- Feather icons
+- Fontawesome – https://fontawesome.com/icons?d=gallery&s=brands,solid&m=free
+
 
 --------------------------------------
 
 
-Google Fonts used:
+Free Google Fonts used:
 
-- Kanit
-- Sacramento
-- Unbounded
+- Google Fonts, Roboto
+- Google Fonts, Jost
+
+
+--------------------------------------
+
+
+Sourse & Credits:
+
+- Hugo - https://gohugo.io/
+- Animate.css: https://daneden.github.io/animate.css/
+- jQuery: https://jquery.com/
+- Isotope: https://isotope.metafizzy.co/
+- Bootstrap: https://getbootstrap.com/
+- imagesLoaded: http://imagesloaded.desandro.com/
+- jQuery Validation Plugin: http://jqueryvalidation.org/
+- Magnific Popup: http://dimsemenov.com/plugins/magnific-popup/
+- Swiper: https://swiperjs.com/
+- Scrolla.js: https://github.com/maximzhurkin/jquery-scrolla
+- pixi.js: https://www.pixijs.com/
+- skrollr.js: https://prinzhorn.github.io/skrollr/
+- splitting.js: https://splitting.js.org/
 
 --------------------------------------
 
 
 Photos Credits:
 
-- Pexels
 - Unsplash
-- Pixabay
-
+- Freepik
 
 IMPORTANT: Images used in the Preview demo are not included in the downloaded package.
 
---------------------------------------
 
-Contacts:
-
-ThemeForest Profile: https://themeforest.net/user/bslthemes
-Email: beshleyua@gmail.com
+ThemeForest: https://themeforest.net/user/bslthemes
+Author Email: beshleyua@gmail.com
