@@ -1,0 +1,30 @@
+{
+  "name": "koladejohnson",
+  "version": "1.0.0",
+  "description": "My portfolio Site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Johnson/koladejohnson.git"
+  },
+  "keywords": [
+    "Portfolio"
+  ],
+  "author": "Victor Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-Johnson/koladejohnson/issues"
+  },
+  "homepage": "https://github.com/Victor-Johnson/koladejohnson#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mariadb": "^3.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
